@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/api/https:/github.com/SofiaS1604/laravel__api-worldskills2021" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/laravel__api-worldskills2021" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/laravel__api-worldskills2021/https:/github.com/SofiaS1604/laravel__api-worldskills2021" vcs="Git" />
-  </component>
-</project>
